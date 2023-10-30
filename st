@@ -2,4 +2,4 @@ body {
     background: #cccccc
 }
    p { 
-            text-align: center}
+    text-align: center }
