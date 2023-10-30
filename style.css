@@ -3,3 +3,6 @@ body {
 }
    p { 
     text-align: center }
+
+    em strong {
+     color: rgb(160, 7, 7) }
