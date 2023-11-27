@@ -17,3 +17,7 @@ p {
 
 em strong {
      color: rgb(160, 7, 7) }
+
+     .itens {
+        font-style: italic;
+     }
